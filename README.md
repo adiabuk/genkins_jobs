@@ -1,2 +1,2 @@
-# genkins_jobs
+# jenkins_jobs
 jenkins DSL jobs
